@@ -598,7 +598,7 @@ header{
 }
 
 .team-video video{
-  width: 108%;
+  width: 100%;
   border-radius: 6px;
   cursor: pointer;}
 
